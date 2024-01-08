@@ -1,0 +1,21 @@
+Sorting Algorithm Visualizer
+
+This program utilize pygame library to help visualize several sorting algorithms. 
+
+Before running sorting algorithm visualizer, you need to install pygame. Run command line pip install pygame
+
+Use the below command line to run the program
+python main.py
+
+In the sorting algorithm visualizer
+Press 'r' to regenerate the bars
+Press 'b' to see bubble sort
+Press 's' to see selection sort
+Press 'i' to see insertion sort
+Press 'm' to see merger sort
+Press 'c' to see cocktail sort
+Press 'h' to see heap sort
+Press 'a' to see radix sort
+Press 'q' to see quick sort
+
+
